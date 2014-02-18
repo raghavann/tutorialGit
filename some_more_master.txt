@@ -1,0 +1,4 @@
+this file is added specifically to master branch to test ..
+also this file is not located in created branch "testing"
+
+To make sure that merge works smoothly for the 1st time and files get added successfully..
